@@ -14,7 +14,9 @@
             <label>
                 email:
             </label>
-            <input  type="text" name=""
+            <input  type="text" name="email" value="">
+            <br>
+            
         </form>
         
     </body>
